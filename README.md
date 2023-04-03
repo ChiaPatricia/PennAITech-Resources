@@ -11,7 +11,8 @@ Ethics and Policy Resources for PennAITech
 |3|G8 Dementia Summit Declaration|A 2013 declaration by G8 countries that led to the establishment of the World Dementia Council and committed to developing a cure or disease-modifying therapy for dementia by 2025.|https://www.gov.uk/government/publications/g8-dementia-summit-agreements|
 |4|National Alzheimer's Project Act (NAPA)|A US federal law enacted in 2011 that mandated the creation of a national strategic plan to address Alzheimer's disease and related dementias, including research, care, and support.|https://aspe.hhs.gov/national-alzheimers-project-act|
 |5|Dementia Friends|A UK government-led initiative that encourages individuals and organizations to learn more about dementia and take action to create dementia-friendly communities.|https://www.dementiafriends.org.uk/|
-
+|6|Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule|A US federal regulation that protects the privacy of individuals' health information and sets rules and limits on who can access and receive health information.|https://www.hhs.gov/hipaa/for-professionals/privacy/index.html|
+|7|Common Rule (45 CFR 46)|A US federal policy that outlines the ethical guidelines for the protection of human subjects in research, including the role of Institutional Review Boards (IRBs), the definition of human subjects, and considerations for vulnerable populations.|https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html|
 
 ...
 
