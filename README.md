@@ -13,6 +13,10 @@ Ethics and Policy Resources for PennAITech
 |5|Dementia Friends|A UK government-led initiative that encourages individuals and organizations to learn more about dementia and take action to create dementia-friendly communities.|https://www.dementiafriends.org.uk/|
 |6|Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule|A US federal regulation that protects the privacy of individuals' health information and sets rules and limits on who can access and receive health information.|https://www.hhs.gov/hipaa/for-professionals/privacy/index.html|
 |7|Common Rule (45 CFR 46)|A US federal policy that outlines the ethical guidelines for the protection of human subjects in research, including the role of Institutional Review Boards (IRBs), the definition of human subjects, and considerations for vulnerable populations.|https://www.hhs.gov/ohrp/regulations-and-policy/regulations/common-rule/index.html|
+|8|General Data Protection Regulation (GDPR)|A European Union (EU) regulation that governs data protection and privacy, including aspects related to data governance, confidentiality, and privacy.|https://gdpr.eu/|
+|9|Belmont Report|A foundational document in the field of research ethics that provides guidance on informed consent, risk assessment, and the protection of vulnerable populations.|https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html|
+|10|American Psychological Association's Ethical Principles of Psychologists and Code of Conduct|Guidelines that cover aspects related to informed consent, deception, confidentiality, privacy, and the return of results in psychological research.|https://www.apa.org/ethics/code/|
+|11|FDA's Digital Health Innovation Action Plan|A plan that outlines the FDA's approach to ensuring the safety and effectiveness of digital health technologies, including AI algorithms and human/machine interfaces.|https://www.fda.gov/media/106331/download|
 
 ...
 
