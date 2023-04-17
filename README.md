@@ -3,6 +3,8 @@ Ethics and Policy Resources for PennAITech
 
 
 ## Policy
+Below are a list of policies and guidelines related to various aspects of aging, dementia, and Alzheimer's disease, including consent, capacity, risk, confidentiality, privacy, data governance, vulnerable populations, incidental findings, deception, liability, transparency, bias, human/machine interface, and FDA regulations.
+
 
 ||Title|Description|Link|
 |-|-|-|-|
