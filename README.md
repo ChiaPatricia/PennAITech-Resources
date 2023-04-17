@@ -1,10 +1,16 @@
 # PennAITech-Resources
 Ethics and Policy Resources for PennAITech
 
+This collection of resources offers a comprehensive overview of key policies, initiatives, and literature resources related to various aspects of aging, dementia, and Alzheimer's disease. These resources address a wide range of topics, including informed consent, capacity, risk assessment, confidentiality, privacy, data governance, vulnerable populations, incidental findings, deception, liability, transparency, bias, human/machine interface, and FDA regulations.
+
+The resources also cover both international and national frameworks, providing guidance for researchers, healthcare professionals, policymakers, and other stakeholders involved in the study, prevention, and treatment of aging, dementia, and Alzheimer's disease. These guidelines and regulations aim to ensure that research and practices in these areas adhere to the highest ethical standards, protect the rights and well-being of individuals affected by these conditions, and promote the responsible use of innovative technologies, such as artificial intelligence and digital health tools.
+
+By examining these resources, you will gain valuable insights into the current landscape of policies and guidelines that govern research and practice in the fields of aging, dementia, and Alzheimer's disease. This knowledge can help you better understand the complex ethical and regulatory considerations that underpin efforts to improve the lives of those affected by these conditions and their caregivers.
+
 
 ## Policy
 Below are a list of policies and guidelines related to various aspects of aging, dementia, and Alzheimer's disease, including consent, capacity, risk, confidentiality, privacy, data governance, vulnerable populations, incidental findings, deception, liability, transparency, bias, human/machine interface, and FDA regulations.
-
+These resources provide important ethical and regulatory frameworks that guide research and practice related to aging, dementia, and Alzheimer's disease.
 
 ||Title|Description|Link|
 |-|-|-|-|
